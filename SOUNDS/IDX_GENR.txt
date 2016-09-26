@@ -1,0 +1,35 @@
+GENERAL
+
+opentx	 OpenTx
+deplyd    deployed
+good      good
+bad       bad
+ugly      ugly
+situ      situation
+pos       positive
+neg       negative
+sitnorm   situation normal
+train     Training
+stblon    stabilization on
+stbloff   stabilization off
+takoff    Takeoff
+cplton    co-pilot on
+cpltoff   co-pilot off
+race      race
+racemd    racemode
+racing    racing
+engarm    engines armed
+engdis    engines disarmed
+actv      active
+actvd     activated
+dactvd    deactivated
+eng       engaged
+dseng     disengage
+on        on
+off       off
+whtvr     whatever
+fxdwng    fixed wingtrnr      trainersprtsfl   sports flyingpylnrc    pylon racingseapl     Seaplanevintg     Vintagewarbrd    warbirdsim       simulatorsclmod    scale model
+
+
+
+

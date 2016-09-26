@@ -1,0 +1,1 @@
+To use these audio files the .wav file you want must be copied to the EN folder

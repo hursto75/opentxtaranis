@@ -1,0 +1,5 @@
+This folder contains a series of text files that contain the words and phrases in the EN folder ? which contains the sounds.  There is also a text file with credits to the creators of this marvelous sound package.
+
+There is a .jpg and an Excel .xlsx file which contain a catalog of the words and phrases next to the file name. 
+
+All that's needed on the microSD card is the intact EN folder placed inside the sounds folder.  

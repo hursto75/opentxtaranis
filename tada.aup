@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="tada_data" version="1.3.0" audacityversion="2.0.6" sel0="0.0000000000" sel1="7.0873922902" vpos="0" h="0.0000000000" zoom="84.6573712063" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags/>
+	<wavetrack name="tada" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="312554">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fb0.au" len="262144" min="-0.966662" max="0.998432" rms="0.190369"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00008fb.au" len="50410" min="-0.679725" max="0.996688" rms="0.136761"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="tada" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="312554">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005fb.au" len="262144" min="-0.60865" max="0.814341" rms="0.140695"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000cdf.au" len="50410" min="-0.615479" max="0.644577" rms="0.106004"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

@@ -1,0 +1,8 @@
+AERO
+
+snapsw    snap roll
+ail3d     3d ailerons
+ele3d     3d elevator
+rud3d     3d rudder
+aero      aerobaticsaero3d    3d aerobaticsaeropr    precision aerobatics
+

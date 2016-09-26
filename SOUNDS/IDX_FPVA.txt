@@ -1,0 +1,21 @@
+FPV/AUTONOMOUS
+
+mltrtr    multirotor
+stblz     Stabilize
+stblzmd   Stabilize mode
+auto      Auto
+autort    Auto Rotation
+fbwa      fly by wire A
+fbwb      fly by wire B
+crcl      circle
+crclmd    circle mode
+waypt     waypoint
+clmbmd    climbing mode
+althld    altitude hold
+poshld    position hold
+gpsmd     GPS mode
+attmd     Attitude mode
+slflvl    Self level mode
+slflvlm   Self level mixing mode
+quadc     quadcoptertric      tricopterhexc      hexacopteroctc      octocopteruav       UAVfpv       FPVfpvf      From Pilots View
+

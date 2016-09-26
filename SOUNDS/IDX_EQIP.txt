@@ -1,0 +1,23 @@
+EQUIP
+
+engdis    engine disabled
+engoff    engine off
+engon     engine on
+batcrit   battery critical
+batlow    low battery
+geardn    gear down
+gearup    gear up
+camcentr  camera centered
+camfix    camera fixed
+camman    camera manual
+gmblact   gimbal active
+gmblon    gimbal on
+gmbloff   gimbal off
+gps       GPS
+bombrel   bombs released
+bombawy   bombs away
+smokeon   smoke on
+smokeoff  smoke off
+pchtdep   parachute deployed
+
+
